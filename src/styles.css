@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+@layer utilities {
+    .square{
+        aspect-ratio: 1/1;
+    }
+}
